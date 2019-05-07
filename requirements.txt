@@ -1,0 +1,6 @@
+pandas
+pandas_datareader
+datetime
+backtrader
+numpy
+matplotlib
